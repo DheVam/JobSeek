@@ -1,7 +1,3 @@
-Here’s a sophisticated README file for your React Native app:
-
----
-
 # JobFinder
 
 JobFinder is a mobile application designed to provide users with a seamless experience for browsing and bookmarking job listings. The app features a user-friendly interface with smooth navigation, infinite scroll, and offline storage for bookmarked jobs. Built using modern technologies, JobFinder ensures a high-performance and scalable solution for job seekers.
