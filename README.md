@@ -1,6 +1,6 @@
-# JobFinder
+# JobSeek
 
-JobFinder is a mobile application designed to provide users with a seamless experience for browsing and bookmarking job listings. The app features a user-friendly interface with smooth navigation, infinite scroll, and offline storage for bookmarked jobs. Built using modern technologies, JobFinder ensures a high-performance and scalable solution for job seekers.
+JobSeek is a mobile application designed to provide users with a seamless experience for browsing and bookmarking job listings. The app features a user-friendly interface with smooth navigation, infinite scroll, and offline storage for bookmarked jobs. Built using modern technologies, JobFinder ensures a high-performance and scalable solution for job seekers.
 This app was created as a part of assignment given by LoKal Pvt Ltd
 
 ## Features
