@@ -43,7 +43,8 @@ Follow these steps to install and run the application:
    git clone https://github.com/your-username/jobfinder.git
    cd jobfinder
 
-2. **Install Dependencies** 
+2. **Install Dependencies**
+   
    yarn install
 
 5. **Run the Application**
@@ -63,10 +64,3 @@ To generate an installable APK file:
    ./gradlew assembleRelease
    
 3. The generated APK can be found in the `android/app/build/outputs/apk/release/` directory.
-
-
-
-
----
-
-This README provides a comprehensive overview of your app, including its features, technologies used, installation steps, building process, and customization instructions.
